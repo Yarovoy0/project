@@ -1,0 +1,40 @@
+.base {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.captain{
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    margin: 20px;
+   
+    background: linear-gradient(to bottom   , #4568DC, #B06AB3);
+}
+.tony{
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    margin: 20px;
+   
+    background: linear-gradient(#e52d27, #b31217);
+}
+.widow{
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    margin: 20px;
+    
+    background: linear-gradient( #000, #61045F);
+}
+.spider{
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    margin: 20px; 
+    background: linear-gradient(#e52d27,#000)
+}
+img {
+    position: relative;
+}

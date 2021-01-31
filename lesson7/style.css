@@ -1,0 +1,48 @@
+.main{
+  background-color: orange;
+  height: 200px;
+  width: 1200px;
+
+}
+.block1{
+    
+    background-color: blue;
+    height:300px;
+    width:1200px;
+    
+}
+.block2{
+    float: left;
+    background-color: green;
+    height:200px;
+    width: 600px;
+   
+}
+.block3{
+    float: right;
+    background-color: red;
+    height:200px;
+    width: 600px;
+    
+}
+.block4{
+    float: left;
+    background-color: yellow;
+    height:200px;
+    width: 400px;
+    
+}
+.block5{
+    float: right;
+    background-color: purple;
+    height:200px;
+    width: 400px;
+   
+}
+.block6{
+    float: right;
+    background-color: orange;
+    height:200px;
+    width: 400px;
+
+}

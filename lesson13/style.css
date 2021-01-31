@@ -1,0 +1,136 @@
+.face{
+    position: absolute;
+    width: 380px; 
+    height: 400px;
+    background: #ecd5b5;
+    border-color: black;
+    border-radius: 50%;
+    left: 700px;
+    top: 250px;
+}
+.earl{
+    position: relative;
+width: 0; 
+height: 0;
+border-top: 100px solid #754327;
+border-right: 100px solid transparent;
+left: 709px;
+top: 260px;
+}
+.eyel{
+    position: relative;
+    width: 75px; 
+    height: 50px;
+    background: #ffffff;
+    border-color: #754327;
+    border-radius: 100px/50px;
+    left: 80px;
+    top: 120px;
+}
+.earr{
+    position: relative;
+    width: 0;
+	height: 0;
+	border-top: 100px solid #754327; 
+    border-left: 100px solid transparent;
+    left: 955px;
+    top: 160px;
+   
+}
+.eyer{
+    position: relative;
+    width: 75px; 
+    height: 50px;
+    background: white;
+    border-color: #000000 ;
+    border-radius: 100px/50px;
+    left: 220px;
+    top: 71px;
+
+}
+.mouse1{
+    position: relative;
+    width: 60px; 
+height: 60px;
+background: #f3dbef;
+border-radius: 50%;
+left: 180px;
+top: 120px;
+
+}
+.mouse2{
+    position: relative;
+    width: 60px; 
+height: 60px;
+background: #f3dbef;
+border-radius: 50%;
+left: 140px;
+top: 60px;
+}
+.mouse3{
+    position: relative;
+    width: 30px; 
+height: 30px;
+background: #fcbeb5;
+border-radius: 50%;
+left: 175px;
+top: 0px;
+}
+ 
+.eye1{
+    position: relative;
+    width: 15px; 
+    height: 15px;
+    background: #000000;
+    border-radius: 50%;
+    left: 250px;
+    top: 40px;
+}
+.eye2{
+    z-index: auto;
+    position: absolute;
+    width: 15px; 
+height: 15px;
+background: #000000;
+border-radius: 50%;
+left: 109px;
+top: 135px;
+}
+.hair1{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #f5ede3;
+    left: 100px;
+    top: -20px;
+}
+.hair2{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #f5ede3;
+}
+.hair3{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #f5ede3;
+}
+.hair4{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #f5ede3;
+}
+.hair5{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #f5ede3;
+}
+.hair6{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #f5ede3;
+}

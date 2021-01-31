@@ -1,0 +1,28 @@
+a {
+    color: blue; 
+    text-decoration: none; 
+   }
+   a:hover {
+    border-bottom: 1px dashed blue; 
+    color: #fff; 
+    background: #14ca32;
+    text-decoration: ;
+    font-size: 24px; 
+    font-weight: bold; 
+   }
+   li:nth-child(even){
+       color: red;
+                                        
+   }
+li:first-child{
+    color:#14ca32;
+    font-size: 24px; 
+       font-weight: bold;
+}
+
+
+
+
+   /* a:visited {
+    color: #808050; 
+   } */
